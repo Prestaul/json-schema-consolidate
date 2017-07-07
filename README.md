@@ -124,7 +124,7 @@ Validator specific options can also be passed.
 |[jsen](https://github.com/bugventure/jsen)|&#x2713;|-|-|&#x2713;|&#x2713;|7/7|
 |[jsonschema](https://github.com/tdegrunt/jsonschema)|-|full|&#x2713;|-|-|4/3|
 |[schemasaurus](https://github.com/AlexeyGrishin/schemasaurus)|-|-|-|RegExp|&#x2713;|8/10|
-|[skeemas](https://github.com/Prestaul/skeemas)|&#x2713;|full|-|-|-|3/1|
+|[skeemas](https://github.com/Prestaul/skeemas)|&#x2713;|full|&#x2713;|-|-|3/1|
 |[themis](https://github.com/playlyfe/themis)|&#x2713;|&#x2713;|-|&#x2713;|&#x2713;|3/8|
 |[tv4](https://github.com/geraintluff/tv4)|-|&#x2713;|&#x2713;|&#x2713;|-|2/11|
 |[z-schema](https://github.com/zaggino/z-schema)|&#x2713;|&#x2713;|&#x2713;|&#x2713;|&#x2713;|-/6|
